@@ -1,72 +1,73 @@
 # 🤖 AI Handbook 🚀
 
-¡Bienvenido a **AI Handbook**! 🌟  
-Un repositorio pensado para programadores, estudiantes y entusiastas que quieren **entender los fundamentos de la Inteligencia Artificial** de forma clara, rápida y práctica.  
+Welcome to **AI Handbook**! 🌟  
+A repository designed for programmers, students, and enthusiasts who want to **understand the fundamentals of Artificial Intelligence** in a clear, quick, and practical way.  
 
 ---
 
-## 📂 Estructura del repositorio
-Por ahora el repo cuenta con la carpeta **`fundamentos/`**, la cual incluye **15 guías en formato Markdown**.  
-Cada guía es **concisa, directa y completa**, con explicaciones simples y ejemplos en **Python 🐍**.  
+## 📂 Repository Structure
+Currently, the repo contains the **`fundamentals/`** folder, which includes **15 Markdown guides**.  
+Each guide is **concise, straight to the point, and complete**, with simple explanations and **Python 🐍** examples.  
 
-Estas guías son ideales para quienes buscan un **punto de partida sólido** sin perder tiempo en información dispersa o poco clara.  
+These guides are perfect for anyone looking for a **solid starting point** without wasting time on scattered or unclear information.  
 
 ---
 
-## 📘 Temas incluidos
-Aquí tienes un vistazo de lo que encontrarás en esta primera entrega:
+## 📘 Topics Covered
+Here’s a quick overview of what you’ll find in this first release:
 
-1. 🤖 ¿Qué es la Inteligencia Artificial?
-2. 🕰️ Breve historia e importancia de la IA
-3. 🧩 Conceptos básicos: IA, ML y DL
-4. 📊 Introducción a Data Science
-5. 🔄 Ciclo de vida de un proyecto de IA
-6. 🏆 Casos de éxito en IA
+1. 🤖 What is Artificial Intelligence?
+2. 🕰️ A brief history and importance of AI
+3. 🧩 Key concepts: AI, ML, and DL
+4. 📊 Introduction to Data Science
+5. 🔄 The lifecycle of an AI project
+6. 🏆 AI success stories
 7. 🧠 Deep Learning
-8. 👁️ Visión Artificial
-9. 🗣️ Procesamiento de Lenguaje Natural (PLN)
-10. 🎮 Aprendizaje por Refuerzo
-11. ✨ IA Generativa y Hugging Face
-12. ➗ Álgebra Lineal para IA
-13. ⚙️ Optimización en ML
-14. 📈 Estadística y Probabilidad
-15. ⚖️ Ética en la Inteligencia Artificial
+8. 👁️ Computer Vision
+9. 🗣️ Natural Language Processing (NLP)
+10. 🎮 Reinforcement Learning
+11. ✨ Generative AI and Hugging Face
+12. ➗ Linear Algebra for AI
+13. ⚙️ Optimization in ML
+14. 📈 Statistics and Probability
+15. ⚖️ Ethics in Artificial Intelligence
 
 ---
 
-## 🐍 Requisitos
-- Conocimientos básicos de **Python** (recomendado, pero no obligatorio).  
-- Interés en aprender y practicar con ejemplos sencillos de código.  
+## 🐍 Requirements
+- Basic knowledge of **Python** (recommended, but not mandatory).  
+- Willingness to learn and practice with simple code examples.  
 
 ---
 
-## 🌍 Para quién es este repo
-✅ Programadores que quieran entender las bases de la IA.  
-✅ Estudiantes que buscan material simple pero completo.  
-✅ Curiosos que quieren conocer cómo funciona la IA y hacia dónde apunta el futuro de la programación.  
+## 🌍 Who is this repo for?
+✅ Programmers who want to understand the foundations of AI.  
+✅ Students looking for simple but complete material.  
+✅ Curious minds interested in how AI works and where programming is heading.  
 
-Este material es **apto para todo público**:  
-- Más completo que un *cheat sheet* 📝  
-- Más ligero que un curso completo 🎓  
-
----
-
-## 🤝 Contribuciones
-¡La colaboración es bienvenida! 🙌  
-Si quieres mejorar o ampliar las guías:  
-
-1. Haz un **fork** del repo 🍴  
-2. Crea tu rama ✨  
-3. Envía un **pull request** 🚀  
+This content is **suitable for everyone**:  
+- More complete than a *cheat sheet* 📝  
+- Lighter than a full course 🎓  
 
 ---
 
-## ⭐ Apoya el proyecto
-Si este repositorio te resulta útil:  
-- Dale una ⭐ en GitHub  
-- Compártelo con otros programadores 👩‍💻👨‍💻  
+## 🤝 Contributing
+Contributions are welcome! 🙌  
+If you’d like to improve or expand the guides:  
+
+1. Fork the repo 🍴  
+2. Create your branch ✨  
+3. Submit a **pull request** 🚀  
 
 ---
 
-💡 **AI Handbook** busca ser una guía práctica, clara y entretenida para entrar al mundo de la Inteligencia Artificial.  
-El futuro de la programación está aquí, ¡y este es un gran primer paso! 🚀
+## ⭐ Support the Project
+If you find this repository useful:  
+- Give it a ⭐ on GitHub  
+- Share it with other developers 👩‍💻👨‍💻  
+
+---
+
+💡 **AI Handbook** is meant to be a practical, clear, and engaging guide to dive into the world of Artificial Intelligence.  
+The future of programming is here — and this is a great first step! 🚀
+
